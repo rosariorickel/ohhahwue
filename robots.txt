@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aerahshai.kingof.pizza/sitemap.xml
